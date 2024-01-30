@@ -1,5 +1,5 @@
 # DCPT
-The official implementation for the paper [_DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs_](https://arxiv.org/abs/2309.10491).
+The official implementation for the **ICRA2024** paper [_DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs_](https://arxiv.org/abs/2309.10491).
 
 [Models & Raw Results](https://pan.baidu.com/s/1fWDA6ccLcoxSEQK9X2A5Jg?pwd=0dof)
 Baidu Driver: 0dof
@@ -12,6 +12,9 @@ Google Driver
 </p>
 
 ## News
+**Jan 29,2024**
+- DCPT is accepted to ICRA2024:stuck_out_tongue_closed_eyes:.
+
 **Nov 21, 2023**
 - We release codes, models and raw results.
 
