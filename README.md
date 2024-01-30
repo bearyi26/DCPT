@@ -12,7 +12,7 @@ Google Driver
 </p>
 
 ## News
-**Jan 29,2024**
+**Jan 29, 2024**
 - DCPT is accepted to ICRA2024 :stuck_out_tongue_closed_eyes: .
 
 **Nov 21, 2023**
